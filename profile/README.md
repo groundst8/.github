@@ -1,4 +1,4 @@
-# Groundst8 Portfolio
+# groundst8 portfolio
 
 ## TCG Electronic Counter
 
